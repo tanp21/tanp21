@@ -61,8 +61,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublime-text&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white) 
  
 
