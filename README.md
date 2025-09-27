@@ -30,8 +30,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 ### Data & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
