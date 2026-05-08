@@ -10,7 +10,6 @@
 - 🏆 Former Competitive Programmer (problem-solving enthusiast)  
 - 🔬 Love doing research & working on real-world projects
 - 🏃 Sports: 🏸 Badminton, ⚽ Soccer
-- 🌏 Vietnamese 🇻🇳 with French 🇫🇷 and Chinese 🇨🇳 heritage
 
 
 ## 🛠 Tech Stack
